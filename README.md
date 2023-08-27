@@ -1,2 +1,4 @@
-# 3.2data
-3.2data of a certain anime game
+# 3.4data
+3.4data of a certain anime game
+
+小孩子不懂事，乱提交玩的qwq
